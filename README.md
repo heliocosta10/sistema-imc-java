@@ -4,7 +4,7 @@
 
 
     Front-end
-    GUI-Swing
+        Swing
 
     Back-end
-    Java
+        Java
